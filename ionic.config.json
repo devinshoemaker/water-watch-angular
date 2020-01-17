@@ -1,0 +1,7 @@
+{
+  "name": "Water Watch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
